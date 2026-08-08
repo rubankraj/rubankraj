@@ -1,6 +1,6 @@
 ### Hi there, I'm Ruban K 👋
 
-I'm a project student at the [Indian Institute of Space Science and Technology (IIST)](https://www.iist.ac.in/), Thiruvananthapuram, working on timing and spectral studies of **Type-I X-ray bursts** from neutron star low-mass X-ray binaries using **AstroSat/LAXPC**. I'm broadly interested in high-energy astrophysics, variable stars, and time-domain astronomy.
+I'm a project student at the [Indian Institute of Space Science and Technology (IIST)](https://www.iist.ac.in/), Thiruvananthapuram, working on timing and spectral studies of **Type-I X-ray bursts** from neutron star low-mass X-ray binaries using **AstroSat/LAXPC**. I'm broadly interested in high-energy astrophysics, X-ray and radio astronomy, time-domain astronomy, and variable stars.
 
 - Some research projects I have worked on:
   - **X-ray Bursts (IIST):** Measuring burst parameters and searching for coherent oscillations in neutron star binaries; characterizing energy- and time-dependent behavior of burst oscillation amplitude and phase
