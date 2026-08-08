@@ -3,7 +3,7 @@
 I'm a project student at the [Indian Institute of Space Science and Technology (IIST)](https://www.iist.ac.in/), Thiruvananthapuram, working on timing and spectral studies of **Type-I X-ray bursts** from neutron star low-mass X-ray binaries using **AstroSat/LAXPC**. I'm broadly interested in astrophysics, with a primary focus on X-ray and high-energy astrophysics, time-series analysis, and time-domain astronomy.
 
 - Some research projects I have worked on:
-  - AstroSat/LAXPC Observations of the Magnetar SGR J1830−0645, Sabancı University, under [Prof. Dr. Ersin Göğüş](https://people.sabanciuniv.edu/ersing)
+  - *AstroSat/LAXPC Observations of the Magnetar SGR J1830−0645*, Sabancı University, under [Prof. Dr. Ersin Göğüş](https://people.sabanciuniv.edu/ersing)
   - *Timing and Spectral Study of Type-I X-ray Bursts Using AstroSat*, IIST, under [Prof. Samir Mandal](https://www.iist.ac.in/ess/samir)
   - *Characterizing Variable Stars in IC 4756 using Gaia, Kepler, and TESS*, ARIES, under [Dr. Yogesh Chandra Joshi](https://www.aries.res.in/people/user-profile/sci/78)
   - Worked with CARTA (Cube Analysis and Rendering Tool for Astronomy) for radio astronomy data visualization, ASIAA, under [Po-Sheng Huang](https://www.asiaa.sinica.edu.tw/people/cv.php?i=posheng)
