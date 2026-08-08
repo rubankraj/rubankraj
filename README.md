@@ -8,15 +8,6 @@ I am Ruban K, a researcher in Astrophysics.
   <img alt="github-snake" src="https://raw.githubusercontent.com/rubankraj/rubankraj/output/github-contribution-grid-snake.svg"/>
 </picture>
 
----
-
-**Currently:** Project Student at IIST Thiruvananthapuram — Timing & Spectral Study of Type-I X-ray Bursts using AstroSat
-
-**Education:** M.Sc. Physics, Bharathidasan University · CGPA 9.02/10
-
----
-
-**Tools & Skills**
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
