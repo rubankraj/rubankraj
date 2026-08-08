@@ -11,5 +11,5 @@ I am Ruban K, a researcher in Astrophysics.
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,latex,git,bash,vscode,github,anaconda" />
+  <img src="https://skillicons.dev/icons?i=linux,python,latex,vscode,anaconda,matplotlib" />
 </p>
