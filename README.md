@@ -15,9 +15,7 @@ I'm a project student at the [Indian Institute of Space Science and Technology (
   - Workshop on Gravitational Waves and LIGO-India — IUCAA, Pune, India (2025)
   - International School on Gravity, Cosmology and Astrophysics Theory — Bauman MSTU, Moscow, Russia (2025)
   - SKA India Consortium Radio Astronomy Training — IIT Indore (2025)
-  - Sagan Summer Workshop on Exoplanet Science — Caltech, Pasadena, USA (2025)
   - REYES: Python for Physics — University of California, Berkeley, USA (2025)
-  - European Astronomical Society Annual Meeting (EAS 2025) — University College Cork, Ireland (2025)
   - Summer Conference on High Energy Physics and Astrophysics — University of Tennessee, Knoxville, USA (2025)
 
 - Tools and languages I use:
