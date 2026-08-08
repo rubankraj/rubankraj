@@ -8,8 +8,6 @@ I am Ruban K, a researcher in Astrophysics.
   <img alt="github-snake" src="https://raw.githubusercontent.com/rubankraj/rubankraj/output/github-contribution-grid-snake.svg"/>
 </picture>
 
----
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,python,latex,vscode,anaconda,matplotlib" />
 </p>
