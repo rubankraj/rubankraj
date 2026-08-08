@@ -4,9 +4,9 @@ I'm a project student at the [Indian Institute of Space Science and Technology (
 
 - Some research projects I have worked on:
   - **AstroSat/LAXPC Observations of the Magnetar SGR J1830−0645**, Sabancı University, under [Prof. Dr. Ersin Göğüş](https://people.sabanciuniv.edu/ersing)
-  - **X-ray Bursts**, IIST, under [Prof. Samir Mandal](https://www.iist.ac.in/ess/samir): Measuring burst parameters and searching for coherent oscillations in neutron star binaries; characterizing energy- and time-dependent behavior of burst oscillation amplitude and phase
-  - **Stellar Variability**, ARIES, under [Dr. Yogesh Chandra Joshi](https://www.aries.res.in/people/user-profile/sci/78): Time-series photometric analysis and Lomb–Scargle variability studies of stars in open cluster IC 4756 using Gaia DR3, Kepler, and TESS
-  - **Radio Astronomy**, ASIAA, under [Po-Sheng Huang](https://www.asiaa.sinica.edu.tw/people/cv.php?i=posheng): Analyzed multi-dimensional FITS data cubes using CARTA for radio astronomy visualization; worked with CASA-generated interferometric imaging products
+  - **Timing and Spectral Study of Type-I X-ray Bursts Using AstroSat**, IIST, under [Prof. Samir Mandal](https://www.iist.ac.in/ess/samir)
+  - **Characterizing Variable Stars in IC 4756 using Gaia, Kepler, and TESS**, ARIES, under [Dr. Yogesh Chandra Joshi](https://www.aries.res.in/people/user-profile/sci/78)
+  - Worked with CARTA (Cube Analysis and Rendering Tool for Astronomy) for radio astronomy data visualization, ASIAA, under [Po-Sheng Huang](https://www.asiaa.sinica.edu.tw/people/cv.php?i=posheng)
 
 - Some schools and workshops I have attended:
   - Reconstructing the Universe Workshop — Academia Sinica, Taipei, Taiwan (2025)
