@@ -23,7 +23,3 @@ I'm a project student at the [Indian Institute of Space Science and Technology (
 - Contact:
   - Email: [rubankraj04@gmail.com](mailto:rubankraj04@gmail.com)
   - LinkedIn: [in/ruban-k-](https://linkedin.com/in/ruban-k-)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,latex,vscode,anaconda,matplotlib" />
-</p>
